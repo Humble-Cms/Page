@@ -4,5 +4,7 @@ namespace HumbleCms\Page;
 
 class Page
 {
-    // Build wonderful things
+   public static function test() {
+    return 'test message12321';
+   }
 }
